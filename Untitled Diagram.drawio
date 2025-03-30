@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="4yVphRapAxRlb3RoKPS6">
-    <mxGraphModel dx="1065" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1014" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -548,139 +548,217 @@
           <mxGeometry x="200" y="3280" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-241" value="Voron- 1000/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="3360" width="840" height="40" as="geometry" />
+          <mxGeometry y="3770" width="840" height="40" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-242" value="The Holy Grail of 3D printing, subjectively. Not technically sold by any manufacturer. You don&#39;t build the Voron, you build YOUR Voron. It is a project by a dedicated community to make a capable printer with parts you can buy from the hardware store.&lt;div class=&quot;custom-cursor-default-hover&quot;&gt;&quot;&lt;/div&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left; text-indent: 16px;&quot; class=&quot;custom-cursor-default-hover&quot;&gt;&lt;font class=&quot;custom-cursor-default-hover&quot;&gt;The original goal of the VORON project, back in 2015, was to create a no-compromise 3D printer that was fun to assemble and a joy to use. It had to be quiet, clean, pretty, and continue to operate 24 hours a day without requiring constant fiddling. In short a true home micro-manufacturing machine without a hefty price tag. It took over a year in development, with every part being redesigned, stress tested and optimized. Shortly after the release a vibrant community formed around the project and continues to grow today. This community is part of what makes VORON such a special experience.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left; text-indent: 16px;&quot; class=&quot;custom-cursor-default-hover&quot;&gt;&lt;font class=&quot;custom-cursor-default-hover&quot;&gt;What was once a one-person operation has grown into a small tight-knit group of engineers united under a common design ethos. We&#39;re dedicated to creating production-quality printers you can assemble in your kitchen. It&#39;s this passion and dedication that drive us to push the boundaries just a little further. We build space shuttles with gardening tools so anyone can have a space shuttle of their own.&lt;/font&gt;&lt;/p&gt;&lt;div class=&quot;custom-cursor-default-hover&quot;&gt;&lt;font class=&quot;custom-cursor-default-hover&quot;&gt;&lt;span class=&quot;custom-cursor-default-hover&quot; style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left; text-indent: 16px;&quot;&gt;Welcome &lt;/span&gt;&lt;span class=&quot;custom-cursor-default-hover&quot; style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left; text-indent: 16px;&quot;&gt;to&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;custom-cursor-default-hover&quot; style=&quot;background-color: transparent; box-sizing: border-box; font-weight: bolder; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left; text-indent: 16px;&quot;&gt;VORON Design&lt;/span&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div class=&quot;custom-cursor-default-hover&quot;&gt;&lt;font class=&quot;custom-cursor-default-hover&quot;&gt;&quot;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="3400" width="840" height="290" as="geometry" />
+          <mxGeometry y="3810" width="840" height="290" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-243" value="V0" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="3730" width="80" height="80" as="geometry" />
+          <mxGeometry y="4140" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-244" value="Name" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="3690" width="80" height="40" as="geometry" />
+          <mxGeometry y="4100" width="80" height="40" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-245" value="Small, fast, moddable. A pleasure to look at, build, and use. The hardest printer to build, ironically, as it is the smallest and cheapest.&lt;span class=&quot;custom-cursor-default-hover&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="3730" width="400" height="80" as="geometry" />
+          <mxGeometry x="400" y="4140" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-246" value="Audience" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="3690" width="400" height="40" as="geometry" />
+          <mxGeometry x="400" y="4100" width="400" height="40" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-247" value="CoreXY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="3730" width="120" height="80" as="geometry" />
+          <mxGeometry x="80" y="4140" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-248" value="Kinematics" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="3690" width="120" height="40" as="geometry" />
+          <mxGeometry x="80" y="4100" width="120" height="40" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-249" value="Potential" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="3690" width="160" height="40" as="geometry" />
+          <mxGeometry x="240" y="4100" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-250" value="~" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="3730" width="160" height="80" as="geometry" />
+          <mxGeometry x="240" y="4140" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-251" value="10/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="3730" width="40" height="80" as="geometry" />
+          <mxGeometry x="800" y="4140" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-252" value="Rate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="3690" width="40" height="40" as="geometry" />
+          <mxGeometry x="800" y="4100" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-253" value="Price" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="3690" width="40" height="40" as="geometry" />
+          <mxGeometry x="200" y="4100" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-254" value="~" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="3730" width="40" height="80" as="geometry" />
+          <mxGeometry x="200" y="4140" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-255" value="2.4" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="3810" width="80" height="80" as="geometry" />
+          <mxGeometry y="4220" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-256" value="Varied size- can be quite large. The &quot;Flagship&quot; of Voron design currently, the third easiest printer to build." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="3810" width="400" height="80" as="geometry" />
+          <mxGeometry x="400" y="4220" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-257" value="CoreXY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="3810" width="120" height="80" as="geometry" />
+          <mxGeometry x="80" y="4220" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-258" value="~" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="3810" width="160" height="80" as="geometry" />
+          <mxGeometry x="240" y="4220" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-259" value="10/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="3810" width="40" height="80" as="geometry" />
+          <mxGeometry x="800" y="4220" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-260" value="~" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="3810" width="40" height="80" as="geometry" />
+          <mxGeometry x="200" y="4220" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-261" value="Trident" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="3890" width="80" height="80" as="geometry" />
+          <mxGeometry y="4300" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-262" value="Varied size- can be quite large. The second easiest to build, the recommended beginner for CoreXY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="3890" width="400" height="80" as="geometry" />
+          <mxGeometry x="400" y="4300" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-263" value="CoreXY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="3890" width="120" height="80" as="geometry" />
+          <mxGeometry x="80" y="4300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-264" value="~" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="3890" width="160" height="80" as="geometry" />
+          <mxGeometry x="240" y="4300" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-265" value="10/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="3890" width="40" height="80" as="geometry" />
+          <mxGeometry x="800" y="4300" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-266" value="~" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="3890" width="40" height="80" as="geometry" />
+          <mxGeometry x="200" y="4300" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-267" value="Switchwire" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="3970" width="80" height="80" as="geometry" />
+          <mxGeometry y="4380" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-268" value="A very capable CoreXZ. The easiest Voron to build." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="3970" width="400" height="80" as="geometry" />
+          <mxGeometry x="400" y="4380" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-269" value="CoreXZ" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="3970" width="120" height="80" as="geometry" />
+          <mxGeometry x="80" y="4380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-270" value="~" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="3970" width="160" height="80" as="geometry" />
+          <mxGeometry x="240" y="4380" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-271" value="10/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="3970" width="40" height="80" as="geometry" />
+          <mxGeometry x="800" y="4380" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-272" value="~" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="3970" width="40" height="80" as="geometry" />
+          <mxGeometry x="200" y="4380" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-273" value="-honorable mentions from the Voron community-" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="4050" width="840" height="40" as="geometry" />
+          <mxGeometry y="4460" width="840" height="40" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-274" value="Micron&lt;div&gt;(and other printers for ants)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="4090" width="80" height="80" as="geometry" />
+          <mxGeometry y="4500" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-275" value="Smaller. Trident based." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="4090" width="400" height="80" as="geometry" />
+          <mxGeometry x="400" y="4500" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-276" value="CoreXY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="4090" width="120" height="80" as="geometry" />
+          <mxGeometry x="80" y="4500" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-277" value="~" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="4090" width="160" height="80" as="geometry" />
+          <mxGeometry x="240" y="4500" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-278" value="10/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="4090" width="40" height="80" as="geometry" />
+          <mxGeometry x="800" y="4500" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-279" value="~" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="4090" width="40" height="80" as="geometry" />
+          <mxGeometry x="200" y="4500" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-280" value="Doron Velta" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry y="4170" width="80" height="80" as="geometry" />
+          <mxGeometry y="4580" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-281" value="An April Fools joke gone wrong (gone right?). A joke printer that, once well received, got made due to the engineer trying to show it was a joke then realizing he actually wanted to make it. Not a &quot;true&quot; Voron- though you can still get a serial from the Discord." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="400" y="4170" width="400" height="80" as="geometry" />
+          <mxGeometry x="400" y="4580" width="400" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-282" value="Delta" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="80" y="4170" width="120" height="80" as="geometry" />
+          <mxGeometry x="80" y="4580" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-283" value="~" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="4170" width="160" height="80" as="geometry" />
+          <mxGeometry x="240" y="4580" width="160" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-284" value="10/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="800" y="4170" width="40" height="80" as="geometry" />
+          <mxGeometry x="800" y="4580" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="THGji-hDWPj--Byz9luo-285" value="~" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="4170" width="40" height="80" as="geometry" />
+          <mxGeometry x="200" y="4580" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-300" value="Sovol- 8/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="3360" width="840" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-301" value="An Open Source Loving company that truly appreciates 3D printing. They make quite good printers, with some being comparable to Prusa, despite being half the price. All of their machines run Klipper" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="3400" width="840" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-302" value="SV06 Plus ACE" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="3520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-303" value="Name" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="3480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-304" value="Fast, large format printer- the successor to the ACE, and a capable option from what I&#39;ve heard." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="3520" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-305" value="Audience" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="3480" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-306" value="Cartesian" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-307" value="Kinematics" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-308" value="Potential" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="3480" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-309" value="Highest Temp: PETG" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="3520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-310" value="8/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="3520" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-311" value="Rate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="3480" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-312" value="Price" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3480" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-313" value="$350" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3520" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-314" value="SVO7 Plus" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="3600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-315" value="Not exactly sure what the difference between this machine and the 6 ACE Plus besides maturity (this one is somehow older- confusing I know)- besides an auxiliary part cooling fan and LEDs" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="3600" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-316" value="Cartesian" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-317" value="Highest Temp: PETG" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="3600" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-318" value="9/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="3600" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-319" value="$350" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3600" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-320" value="SVO8" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="3680" width="80" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-321" value="Stated by Sovol to be a Voron 2.4 clone, this thing is HUGE. It runs Klipper, is super cheap for what it is, though does have some performance issues. Teaching Tech has a video series on how to turn this into a budget toolchanger.&lt;div class=&quot;custom-cursor-default-hover&quot;&gt;https://www.youtube.com/playlist?list=PLGqRUdq5ULsNIN_40Bv1iTbElj6O7BRrU&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="3680" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-322" value="CoreXY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3680" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-323" value="Highest Temp: PETG&lt;div class=&quot;custom-cursor-default-hover&quot;&gt;(optional enclosure: ASA)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="3680" width="160" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-324" value="9/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="3680" width="40" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-325" value="$600" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3680" width="40" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
