@@ -1,3 +1,3 @@
 # Buyer-s-Guides
-For my Charts
+This is just a repository for storing my charts comparing or listing differeent products
 # Buyer-s-Guides
