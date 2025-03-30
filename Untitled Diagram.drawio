@@ -1,9 +1,687 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram name="Page-1" id="4yVphRapAxRlb3RoKPS6">
-    <mxGraphModel>
+    <mxGraphModel dx="1065" dy="645" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="THGji-hDWPj--Byz9luo-14" value="This Guide is organized alphabetically. These are my personal opinions or the opinions of those whose opinions I trust. Please use discretion when following this guide- nothing is set in stone, and my or other&#39;s experiences might differ from yours. Each printer and brand will receive a rating out of 10. Please enjoy.&amp;nbsp;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry width="840" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-15" value="FDM- Fused Deposition Modelling: Uses a plastic filament and a motion system to melt and deposit filament following a preset g-code. The easiest, safest, and most common form of 3D printing. Ideal for beginners." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="80" width="840" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-16" value="Anycubic: 4/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="240" width="840" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-17" value="No specific printers in mind. Not generally recommended by me as those whom I have talked to do not recommend. Generally capable printers, but the company as a whole and software capability is... not... good. Everything is closed source and they use a &quot;custom built&quot; slicer. Meh" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="280" width="840" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-18" value="Bambu Lab- 7/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="360" width="840" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-19" value="This would normally be a 9/10 for me, but the direction that the company is going, their love for closed source, their recent policies, and the questionable release decisions, besides them being based in China, all make it harder for me to recommend. They do, however, produce very capable machines with very capable software." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="400" width="840" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-20" value="Bambu Lab A1 Mini" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="520" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-21" value="Name" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="480" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-22" value="Beginners. Has a small build volume and low temp rating. Good multicolor system and Bambu Lab&#39;s ecosystem. Very fast and cheap. Super easy to use." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="520" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-23" value="Audience" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="480" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-26" value="Cartesian" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="520" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-27" value="Kinematics" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="480" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-28" value="Potential" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="480" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-29" value="Highest Temp: PETG" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="520" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-30" value="Kinematic Systems:&lt;div&gt;Cartesian: Bed moves back and forth, head moves side to side via belts, and moves up and down via leadscrews.&amp;nbsp;&lt;div class=&quot;custom-cursor-default-hover&quot;&gt;CoreXZ: Bed moves back and forth, head moves side to side and moves up and down via a cleaver integrated belt system&lt;/div&gt;&lt;div class=&quot;custom-cursor-default-hover&quot;&gt;CoreXY (Trident Style): Head moves back and forth, side to side, bed moves up and down via leadscrews&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;custom-cursor-default-hover&quot;&gt;CoreXY (Flying Gantry): head moves back and forth, side to side, up and down all due to belts. Stationary bed.&lt;/div&gt;&lt;div class=&quot;custom-cursor-default-hover&quot;&gt;Delta: Head moves in all directions via 3 &quot;subtracting&quot; arms- by either lowering or raising these arms individually, the toolhead can move in all directions incredibly quickly.&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="120" width="840" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-31" value="7/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="520" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-32" value="Rate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="480" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-43" value="Bambu Lab A1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="600" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-44" value="Beginners and intermediate users. Has a standard build volume and low temp rating. Good multicolor system and Bambu Lab&#39;s ecosystem. Very fast and cheap. Super easy to use." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="600" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-45" value="Cartesian" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="600" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-46" value="Highest Temp: PETG" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="600" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-47" value="8/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="600" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-48" value="Bambu Lab P1P" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="680" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-49" value="Print farms and modders. Has a standard build volume and low temp rating. Good multicolor system and Bambu Lab&#39;s ecosystem. Blazingly fast. Super easy to use." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="680" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-50" value="CoreXY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="680" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-51" value="Highest Temp: PETG&lt;div&gt;(optional enclosure: ASA)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="680" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-52" value="6/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="680" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-53" value="Bambu Lab P1S" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="760" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-54" value="Standard and advanced users. Has a standard build volume and good temperatures. Good multicolor system and Bambu Lab&#39;s ecosystem. Blazingly fast. Super easy to use." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="760" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-55" value="CoreXY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-56" value="Highest Temp: ASA" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="760" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-57" value="9/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="760" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-58" value="Bambu Lab X1C" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-59" value="Advanced users and print farms. Has a standard build volume and great temperatures. Good multicolor system and Bambu Lab&#39;s ecosystem. Blazingly fast. Super easy to use." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="840" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-60" value="CoreXY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="840" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-61" value="Highest Temp: PA-CF" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="840" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-62" value="9/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="840" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-64" value="Price" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="480" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-66" value="$300" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="520" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-67" value="$400" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="600" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-68" value="$700" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="680" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-69" value="$700" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="760" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-70" value="$1200" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="840" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-71" value="Bambu Lab H2D" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="920" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-72" value="Advanced users and print farms. Has a larger build volume and amazing temperatures. Great multicolor system and Bambu Lab&#39;s ecosystem. Blazingly fast. Super easy to use." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="920" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-73" value="CoreXY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="920" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-74" value="Highest Temp: &amp;gt;PA-CF" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="920" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-75" value="7/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="920" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-76" value="$1900" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="920" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-77" value="Creality- 6/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1000" width="840" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-78" value="One of the OG printer brands. They started with Prusa clones, and are now doing Bambu Lab clones. Jokes aside, they genuinely make good printers, and while they are leaning towards closed sourcing everything, they used to be very avid open source lovers. Chinese company." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1040" width="840" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-79" value="K1 series" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1160" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-80" value="Name" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1120" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-81" value="A Bambu Lab clone I think. fast coreXY, build volume only expands with these things. K1E is the minimum printer you should go with- the earlier ones had problems." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1160" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-82" value="Audience" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1120" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-83" value="CoreXY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1160" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-84" value="Kinematics" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1120" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-85" value="Potential" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1120" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-86" value="Highest Temp: ASA" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1160" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-87" value="5/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1160" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-88" value="Rate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-89" value="Price" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1120" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-90" value="&amp;gt;$600" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1160" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-91" value="K2 series" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-92" value="Most likely a X1C clone. Works okay- many issues have arisen, but still massive and capable. Can do multicolor." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1240" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-93" value="CoreXY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1240" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-94" value="Highest Temp: ASA" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1240" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-95" value="5/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1240" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-96" value="$1500" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1240" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-97" value="HI series" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1320" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-98" value="Blatant A1 Clone. Fast, easy, has a well- liked multicolor system. Not much to say." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1320" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-99" value="Cartesian" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1320" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-100" value="Highest Temp: PETG" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1320" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-101" value="6/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1320" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-102" value="$370" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1320" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-103" value="Ender 3 V3 series" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-104" value="Look like Switchwire clones. Apparently quite fast and heavy. Work well." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1400" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-105" value="CoreXZ" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1400" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-106" value="Highest Temp: PETG" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1400" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-107" value="7/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1400" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-108" value="&amp;gt;$300" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1400" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-109" value="Design and build your own printer. Difficult, time consuming, and usually expensive, but super fun and rewarding:&lt;div&gt;https://www.youtube.com/watch?v=yuAN5AzEWCg&amp;nbsp;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1520" width="840" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-110" value="DIY- 9/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1480" width="840" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-111" value="Elegoo- 7/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1600" width="840" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-112" value="A good, simple printer brand." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1640" width="840" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-113" value="Neptune series" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1760" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-114" value="Name" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1720" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-115" value="Run Klipper. Fast, reliable, and big. There may be some extremely long term reliability issues, but for now there are no problems" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1760" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-116" value="Audience" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1720" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-117" value="Cartesian" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1760" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-118" value="Kinematics" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1720" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-119" value="Potential" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1720" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-120" value="Highest Temp: PETG" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1760" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-121" value="7/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1760" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-122" value="Rate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1720" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-123" value="Price" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1720" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-124" value="&amp;gt;$200" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1760" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-137" value="Centauri&lt;div&gt;Series&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1840" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-138" value="Stopped using Klipper for whatever reason. Ridiculously cheap CoreXY- not sure what is happening here, as they are brand new, but I personally am cautious, despite other&#39;s enthusiasm." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="1840" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-139" value="CoreXY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="1840" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-140" value="Highest Temp: PETG&lt;div&gt;(Carbon can do ASA)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1840" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-141" value="7/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="1840" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-142" value="&amp;gt;$200" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="1840" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-143" value="Flashforge- ?/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1920" width="840" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-144" value="No clue" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="1960" width="840" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-145" value="FLSUN- 5/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="2040" width="840" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-146" value="Solely produce Delta Printers. Unfortunately, there has been a recent drama concerning questionable marketing and serious closed sourcing- even slamming down those who put months of effort into projects." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="2080" width="840" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-147" value="All of them" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="2200" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-148" value="Name" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="2160" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-149" value="They do be fast delta printers and cheap too." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2200" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-150" value="Audience" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2160" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-151" value="Delta" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2200" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-152" value="Kinematics" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2160" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-153" value="Potential" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2160" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-154" value="Highest Temp: PA-CF" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2200" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-155" value="7/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2200" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-156" value="Rate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-157" value="Price" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2160" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-158" value="&amp;gt;$400" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2200" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-165" value="Makerbot- ?/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="2280" width="840" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-168" value="Yeah no clue. They&#39;re old I think?" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="2320" width="840" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-169" value="Prusa- 10/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="2400" width="840" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-170" value="Expensive? yes. Seemingly Unnecessary? also yes. Reliable, dedicated, and passionate company and community? Heck yes. Prusa is THE OG printer brand. Joseph was one of the main players instrumental in getting us where we are now. One of the few companies where customer support is lightning fast, understandable, and genuinely helpful. Almost all components are assembled in house at Prague." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="2440" width="840" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-171" value="mk4s" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="2560" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-172" value="Name" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="2520" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-173" value="Reliable. Fast. Kind of unnecessary now that the CORE 1 exists. The kit is a worthwhile experience" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2560" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-174" value="Audience" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2520" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-175" value="Cartesian" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2560" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-176" value="Kinematics" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2520" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-177" value="Potential" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2520" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-178" value="Highest Temp: PETG" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2560" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-179" value="9/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2560" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-180" value="Rate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2520" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-181" value="Price" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2520" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-182" value="&amp;gt;$730" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2560" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-183" value="CORE 1" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="2640" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-184" value="Reliable. Fast. Good. Get it. Mod it. Love it." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2640" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-185" value="CoreXY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2640" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-186" value="Highest Temp: ASA" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2640" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-187" value="10/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2640" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-188" value="&amp;gt;$950" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2640" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-189" value="XL" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="2720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-190" value="Super expensive. Multiple toolheads for waste free multicolor or multimaterial printing&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2720" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-191" value="CoreXY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2720" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-192" value="Highest Temp: ASA" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2720" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-193" value="8/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2720" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-194" value="&amp;gt;$2000" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2720" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-195" value="Qidi- 7/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="2800" width="840" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-196" value="A strange company with a strange design philosophy. Their printers work though." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="2840" width="840" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-197" value="plus4" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="2960" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-198" value="Name" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="2920" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-199" value="Fast, works. heated chamber. big. man I&#39;m tired." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2960" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-200" value="Audience" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="2920" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-201" value="CoreXY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2960" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-202" value="Kinematics" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="2920" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-203" value="Potential" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2920" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-204" value="Highest Temp: PA-CF" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="2960" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-205" value="7/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2960" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-206" value="Rate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="2920" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-207" value="Price" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2920" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-208" value="$800" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="2960" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-221" value="plus4" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="3040" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-222" value="Fast, works. heated chamber. entry level I guess." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="3040" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-223" value="CoreXY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3040" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-224" value="Highest Temp: PA-CF" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="3040" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-225" value="9/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="3040" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-226" value="$450" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3040" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-227" value="RatRig- 10/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="3120" width="840" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-228" value="Amazing people making amazing printers. Mostly kits, but some are pre-assembled.&amp;nbsp;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="3160" width="840" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-229" value="VCore4" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="3280" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-230" value="Name" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="3240" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-231" value="They just good. Open source and good. the end" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="3280" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-232" value="Audience" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="3240" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-233" value="CoreXY, IDEX, Hybrid" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3280" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-234" value="Kinematics" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3240" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-235" value="Potential" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="3240" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-236" value="Highest Temp: PA-CF" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="3280" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-237" value="10/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="3280" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-238" value="Rate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="3240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-239" value="Price" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3240" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-240" value="&amp;gt;$705" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3280" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-241" value="Voron- 1000/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="3360" width="840" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-242" value="The Holy Grail of 3D printing, subjectively. Not technically sold by any manufacturer. You don&#39;t build the Voron, you build YOUR Voron. It is a project by a dedicated community to make a capable printer with parts you can buy from the hardware store.&lt;div class=&quot;custom-cursor-default-hover&quot;&gt;&quot;&lt;/div&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left; text-indent: 16px;&quot; class=&quot;custom-cursor-default-hover&quot;&gt;&lt;font class=&quot;custom-cursor-default-hover&quot;&gt;The original goal of the VORON project, back in 2015, was to create a no-compromise 3D printer that was fun to assemble and a joy to use. It had to be quiet, clean, pretty, and continue to operate 24 hours a day without requiring constant fiddling. In short a true home micro-manufacturing machine without a hefty price tag. It took over a year in development, with every part being redesigned, stress tested and optimized. Shortly after the release a vibrant community formed around the project and continues to grow today. This community is part of what makes VORON such a special experience.&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;box-sizing: border-box; margin-top: 0px; margin-bottom: 1rem; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left; text-indent: 16px;&quot; class=&quot;custom-cursor-default-hover&quot;&gt;&lt;font class=&quot;custom-cursor-default-hover&quot;&gt;What was once a one-person operation has grown into a small tight-knit group of engineers united under a common design ethos. We&#39;re dedicated to creating production-quality printers you can assemble in your kitchen. It&#39;s this passion and dedication that drive us to push the boundaries just a little further. We build space shuttles with gardening tools so anyone can have a space shuttle of their own.&lt;/font&gt;&lt;/p&gt;&lt;div class=&quot;custom-cursor-default-hover&quot;&gt;&lt;font class=&quot;custom-cursor-default-hover&quot;&gt;&lt;span class=&quot;custom-cursor-default-hover&quot; style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left; text-indent: 16px;&quot;&gt;Welcome &lt;/span&gt;&lt;span class=&quot;custom-cursor-default-hover&quot; style=&quot;font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left; text-indent: 16px;&quot;&gt;to&amp;nbsp;&lt;/span&gt;&lt;span class=&quot;custom-cursor-default-hover&quot; style=&quot;background-color: transparent; box-sizing: border-box; font-weight: bolder; font-family: -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: left; text-indent: 16px;&quot;&gt;VORON Design&lt;/span&gt;&amp;nbsp;&lt;/font&gt;&lt;/div&gt;&lt;div class=&quot;custom-cursor-default-hover&quot;&gt;&lt;font class=&quot;custom-cursor-default-hover&quot;&gt;&quot;&lt;/font&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="3400" width="840" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-243" value="V0" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="3730" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-244" value="Name" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="3690" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-245" value="Small, fast, moddable. A pleasure to look at, build, and use. The hardest printer to build, ironically, as it is the smallest and cheapest.&lt;span class=&quot;custom-cursor-default-hover&quot; style=&quot;background-color: transparent; color: light-dark(rgb(0, 0, 0), rgb(255, 255, 255));&quot;&gt;&amp;nbsp;&lt;/span&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="3730" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-246" value="Audience" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="3690" width="400" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-247" value="CoreXY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3730" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-248" value="Kinematics" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3690" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-249" value="Potential" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="3690" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-250" value="~" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="3730" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-251" value="10/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="3730" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-252" value="Rate" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="3690" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-253" value="Price" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3690" width="40" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-254" value="~" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3730" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-255" value="2.4" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="3810" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-256" value="Varied size- can be quite large. The &quot;Flagship&quot; of Voron design currently, the third easiest printer to build." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="3810" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-257" value="CoreXY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3810" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-258" value="~" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="3810" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-259" value="10/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="3810" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-260" value="~" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3810" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-261" value="Trident" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="3890" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-262" value="Varied size- can be quite large. The second easiest to build, the recommended beginner for CoreXY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="3890" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-263" value="CoreXY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3890" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-264" value="~" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="3890" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-265" value="10/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="3890" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-266" value="~" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3890" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-267" value="Switchwire" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="3970" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-268" value="A very capable CoreXZ. The easiest Voron to build." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="3970" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-269" value="CoreXZ" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="3970" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-270" value="~" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="3970" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-271" value="10/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="3970" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-272" value="~" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="3970" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-273" value="-honorable mentions from the Voron community-" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="4050" width="840" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-274" value="Micron&lt;div&gt;(and other printers for ants)&lt;/div&gt;" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="4090" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-275" value="Smaller. Trident based." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="4090" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-276" value="CoreXY" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="4090" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-277" value="~" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="4090" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-278" value="10/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="4090" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-279" value="~" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="4090" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-280" value="Doron Velta" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="4170" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-281" value="An April Fools joke gone wrong (gone right?). A joke printer that, once well received, got made due to the engineer trying to show it was a joke then realizing he actually wanted to make it. Not a &quot;true&quot; Voron- though you can still get a serial from the Discord." style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="4170" width="400" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-282" value="Delta" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="4170" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-283" value="~" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="240" y="4170" width="160" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-284" value="10/10" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="800" y="4170" width="40" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="THGji-hDWPj--Byz9luo-285" value="~" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="200" y="4170" width="40" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
